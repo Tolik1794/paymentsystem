@@ -1,0 +1,20 @@
+{
+    "name": "payment/payment-system",
+    "description": "Package with Ukrainian payment systems",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Anatolii Korotkyi",
+            "email": "tolik1794@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "payment\\PaymentSystem\\": "src/"
+        }
+    }
+}
