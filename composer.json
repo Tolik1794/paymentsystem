@@ -1,5 +1,5 @@
 {
-    "name": "payment/payment-system",
+    "name": "payment/payment",
     "description": "Package with Ukrainian payment systems",
     "type": "package",
     "authors": [
